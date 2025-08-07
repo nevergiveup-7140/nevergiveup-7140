@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nevergiveup-7140
-- 👀 I’m interested in network engineering/security and malware analysis
+- 👀 I’m interested all in all coding no matter the domain
 - 🌱 I’m currently learning Mysql
 - 💞️ I’m looking to collaborate and work on projects related to fields above.
 - 📫 How to reach me -
